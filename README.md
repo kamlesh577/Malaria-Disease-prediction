@@ -1,5 +1,5 @@
 # Malaria-Disease-prediction
-Dataset: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria.
+Dataset: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
 
 Malaria remains a major burden on global health, with roughly 200 million cases worldwide and more than 400,000 deaths per year. Besides biomedical research and political efforts, modern information technology is playing a key role in many attempts at fighting the disease. 
 
