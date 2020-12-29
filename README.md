@@ -1,7 +1,7 @@
 # Malaria-Disease-prediction.
 Dataset: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
 
-Malaria remains a major burden on global health, with roughly 200 million cases worldwide and more than 400,000 deaths per year. Besides biomedical research and political efforts, modern information technology is playing a key role in many attempts at fighting the disease. 
+Malaria remains a major burden on global health, with roughly 200 million cases worldwide and more than 400,000 deaths per year. Besides biomedical research and political efforts, modern information technology is playing a key role in many attempts at fighting the disease. .
 
 Malaria is one of the major public health problems in India. Early prediction of a Malaria outbreak is the key for control of malaria morbidity, mortality as well as reducing the risk of transmission of malaria in the community and can help policymakers, health providers, medical officers, ministry of health and other health organizations to better target medical resources to areas of greatest need.
 
@@ -43,8 +43,6 @@ The ResNet-50 model consists of 5 stages each with a convolution and Identity bl
 In general, in a deep convolutional neural network, several layers are stacked and are trained to the task at hand. The network learns several low/mid/high level features at the end of its layers. In residual learning, instead of trying to learn some features, we try to learn some residual. Residual can be simply understood as subtraction of feature learned from input of that layer. ResNet does this using shortcut connections (directly connecting input of nth layer to some (n+x)th layer. It has proved that training this form of networks is easier than training simple deep convolutional neural networks and also the problem of degrading accuracy is resolved.
 
 This is the fundamental concept of ResNet.
-
-
 
 
 
