@@ -1,7 +1,7 @@
 # Malaria-Disease-prediction.
 Dataset: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
 
-Malaria remains a major burden on global health, with roughly 200 million cases worldwide and more than 400,000 deaths per year. Besides biomedical research and political efforts, modern information technology is playing a key role in many attempts at fighting the disease. .
+Malaria remains a major burden on global health, with roughly 200 million cases worldwide and more than 400,000 deaths per year. Besides biomedical research and political efforts, modern information technology is playing a key role in many attempts at fighting the disease. 
 
 Malaria is one of the major public health problems in India. Early prediction of a Malaria outbreak is the key for control of malaria morbidity, mortality as well as reducing the risk of transmission of malaria in the community and can help policymakers, health providers, medical officers, ministry of health and other health organizations to better target medical resources to areas of greatest need.
 
